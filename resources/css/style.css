@@ -3,10 +3,25 @@ body {
   text-align: center;
 }
 
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.nav {
+  font-size: 18px;
+  color: white;
+}
+
+.header {
+  background-image: url(../img/the-flatiron-building.png);
+}
+
 .york {
   /* background image with white, bold text needed */
 }
 
-.horiz {
-  /* Need to specify footer menu as horizontal */
+.footer {
+  background-color: dimgray;
 }
