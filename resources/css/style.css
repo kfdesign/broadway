@@ -9,6 +9,20 @@ h1 {
   color: white;
 }
 
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
 .nav {
   font-size: 18px;
   color: white;
@@ -16,12 +30,28 @@ h1 {
 
 .header {
   background-image: url(../img/the-flatiron-building.png);
+  padding-bottom: 5px;
 }
 
 .york {
-  /* background image with white, bold text needed */
+  background-image: url(../img/the-flatiron-building.png);
+  color: white;
+  padding-top: 1px;
+  padding-bottom: 3px;
 }
 
 .footer {
   background-color: dimgray;
+}
+
+.orange {
+  color: orange;
+}
+
+.purple {
+  color: purple;
+}
+
+.green {
+  color: olivedrab;
 }
